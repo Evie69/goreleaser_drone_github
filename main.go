@@ -1,7 +1,9 @@
 package main
+
 import (
-  "log"
+	"log"
 )
+
 func main() {
-  log.Println("It works")
+	log.Println("It works, it really does")
 }

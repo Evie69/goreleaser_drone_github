@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Println("It works, it really does")
+	log.Println("It works, it really does!")
 }
